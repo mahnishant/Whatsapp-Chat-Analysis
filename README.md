@@ -1,4 +1,4 @@
-# 💬 WhatsApp Chat Sentiment Analyzer | NLP Project
+# 💬 WhatsApp Chat Sentiment Analyzer 
 
 This project is a sentiment analysis tool that processes WhatsApp chat exports to determine the **emotional tone** of messages using Natural Language Processing (NLP). It helps gain insights into **user emotions, opinions, and behavior** from conversation logs.
 
